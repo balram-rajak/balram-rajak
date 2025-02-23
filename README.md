@@ -5,8 +5,8 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 
 ## 🛠️ Skills
 - **Languages**: Java, JavaScript, C++, TypeScript
-- **Frameworks**: Spring, Hibernate, ORM
-- **Tools**: Git, Docker, Kubernetes
+- **Frameworks**: Spring Boot, Hibernat ORM
+- **Tools**: Git, Docker, Kubernetes, Veracode, svn, postman, maven, jenkins
 - **Databases**: MySQL, MsSQL
 - **Cloud**: AWS
 
