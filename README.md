@@ -15,11 +15,11 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 - **LinkedIn**: [Balram Rajak](https://www.linkedin.com/in/balram-rajak-01b2ab150/)
 - **GitHub**: [balram-rajak](https://github.com/balram-rajak)
 
-## 📈 GitHub Stats
-![Balram's GitHub stats](https://github-readme-stats.vercel.app/api?username=balram-rajak&show_icons=true&theme=radical)
+<!--## 📈 GitHub Stats
+![Balram's GitHub stats](https://github-readme-stats.vercel.app/api?username=balram-rajak&show_icons=true&theme=radical)-->
 
-## 🔗 Portfolio
-Check out my [portfolio website](https://balram-rajak-portfolio.com) to see some of the projects I've worked on.
+<!--## 🔗 Portfolio
+Check out my [portfolio website](https://balram-rajak-portfolio.com) to see some of the projects I've worked on.-->
 
 ## 🌱 Currently Learning
 I'm currently diving deeper into cloud-native development and exploring serverless architectures. Along with it polishing my DSA and exploring various optimization techniques to build high performance systems at low cost.
